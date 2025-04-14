@@ -12,12 +12,12 @@ I’m a **Computational Linguistics** Master's student at **Goldsmiths, Universi
 I'm passionate about **Artificial Intelligence** and **Natural Language Processing**. My current research interests include **RAG**, **Agentic AI**, **evaluating NLG** and **sentiment analysis**.
 
 
-### 🚀 Skills
-- 🖥**Programming Languages**: Python, R  
-- **NLP Libraries**: spaCy, Huggingface, NLTK, Gensim  
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras  
-- **Web Frameworks**: Streamlit, Voiceflow  
-- **Other**: OpenAI API, LangChain, LangSmith, LangFlow  
+### 🛠️ Technologies & Skills
+- 🖥**Programming Languages**: Python, R
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn
+- **NLP Libraries**: NLTK, spaCy, Gensim, HuggingfaceTransformers
+- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras, LangChain
+- **Deployment**: Streamlit, Voiceflow  
 
 ---
 

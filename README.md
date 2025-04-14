@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m a **Computational Linguistics student** at **Goldsmiths University of London**, passionate about **Artificial Intelligence** and **Natural Language Processing**. 
+I’m a **Computational Linguistics Master's student** at **Goldsmiths University of London**, passionate about **Artificial Intelligence** and **Natural Language Processing**. 
 
 ### Skills
 - **Programming Languages**: Python, R

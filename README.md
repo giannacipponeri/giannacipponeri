@@ -6,14 +6,14 @@
 
 ---
 
-### 🌟 About Me
+### About Me
 
 I’m a **Computational Linguistics** Master's student at **Goldsmiths, University of London**.
 I'm passionate about **Artificial Intelligence** and **Natural Language Processing**. My current research interests include **RAG**, **Agentic AI**, **evaluating NLG** and **sentiment analysis**.
 
 
-### 🛠️ Technologies & Skills
-- 🖥**Programming Languages**: Python, R
+### Technologies & Skills
+- **Programming Languages**: Python, R
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn
 - **NLP Libraries**: NLTK, spaCy, Gensim, HuggingfaceTransformers
 - **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras, LangChain
@@ -21,7 +21,7 @@ I'm passionate about **Artificial Intelligence** and **Natural Language Processi
 
 ---
 
-### 📂 Projects
+### Projects
 
 #### 1️⃣ **Agentic RAG: Interviewer, Writer, Critic**  
 Created an AI agent system using **OpenAI APIs** and **LangChain** to conduct interviews, generate storybooks, and improve outputs with AI feedback. 
@@ -37,7 +37,7 @@ Analyzed infrared thermography data to explore contactless temperature readings 
 
 ---
 
-### 📬 Contact Me
+### Contact Me
 
 Feel free to reach out!  
 ✉️ **Email**: [gcipp001@gold.ac.uk](mailto:gcipp001@gold.ac.uk)  
@@ -45,7 +45,7 @@ Feel free to reach out!
 
 ---
 
-### 🎯 Badges
+### Badges
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org)  
 [![Streamlit](https://img.shields.io/badge/Streamlit-Live-orange)](https://streamlit.io)  

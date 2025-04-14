@@ -1,4 +1,4 @@
-# 👩‍💻 Gianna Cipponeri 
+# Gianna Cipponeri 
 
 📍 **Location**: London, UK  
 ✉️ **Email**: [gcipp001@gold.ac.uk](mailto:gcipp001@gold.ac.uk)  

@@ -8,30 +8,31 @@
 
 ### 🌟 About Me
 
-I’m a **Computational Linguistics Master's student** at **Goldsmiths University of London**, passionate about **Artificial Intelligence** 🤖 and **Natural Language Processing** 🧠. My research focuses on **AI agents**, **sentiment analysis**, and **predictive modeling** for business solutions. Currently exploring **contactless fever detection** using **infrared thermography**. 🚀
+I’m a **Computational Linguistics Master's student** at **Goldsmiths, University of London**.
+I'm passionate about **Artificial Intelligence** and **Natural Language Processing**. My current research interests include **RAG**, **Agentic AI**, **evaluating NLG** and **sentiment analysis**.
 
 ### 🚀 Skills
-- 🖥️ **Programming Languages**: Python, R  
-- 🧰 **NLP Libraries**: spaCy, Huggingface, NLTK, Gensim  
-- 🧠 **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras  
-- 🌐 **Web Frameworks**: Streamlit, Voiceflow  
-- 🔧 **Other**: OpenAI API, LangChain, LangSmith, LangFlow  
+- 🖥**Programming Languages**: Python, R  
+- **NLP Libraries**: spaCy, Huggingface, NLTK, Gensim  
+- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras  
+- **Web Frameworks**: Streamlit, Voiceflow  
+- **Other**: OpenAI API, LangChain, LangSmith, LangFlow  
 
 ---
 
 ### 📂 Projects
 
 #### 1️⃣ **Agentic RAG: Interviewer, Writer, Critic**  
-Created an AI agent system using **OpenAI APIs** and **LangChain** to conduct interviews, generate storybooks, and improve outputs with AI feedback. 🤖💬
+Created an AI agent system using **OpenAI APIs** and **LangChain** to conduct interviews, generate storybooks, and improve outputs with AI feedback. 
 
 #### 2️⃣ **Extractive Text Summarizer**  
-Trained and evaluated models, including a **Neural Network** and **Pre-trained Transformer** to summarize text. Optimized for news articles and deployed via **Streamlit** for interactive use. 📑✨
+Trained and evaluated models, including a **Neural Network** and **Pre-trained Transformer** to summarize text. Optimized for news articles and deployed via **Streamlit** for interactive use. 
 
 #### 3️⃣ **Housing Price Prediction with ML**  
-Developed a **machine learning model** to predict housing prices based on features like location, size, and amenities. The model was implemented and analyzed in a **Jupyter Notebook**. 🏠📊
+Developed a **machine learning model** to predict housing prices based on features like location, size, and amenities. The model was implemented and analyzed in a **Jupyter Notebook**. 
 
 #### 4️⃣ **Infrared Thermography for Fever Detection**  
-Analyzed infrared thermography data to explore contactless temperature readings for detecting fever. Developed regression and classification models using **Linear Regression**, **Random Forest**, **XGBoost**, and **Neural Networks**. 📉🤒
+Analyzed infrared thermography data to explore contactless temperature readings for detecting fever. Developed regression and classification models using **Linear Regression**, **Random Forest**, **XGBoost**, and **Neural Networks**. 
 
 ---
 

@@ -8,8 +8,8 @@
 
 ### About Me
 
-I’m a **Computational Linguistics** Master's student at **Goldsmiths, University of London**.
-I'm passionate about **Artificial Intelligence** and **Natural Language Processing**. My current research interests include **RAG**, **Agentic AI**, **evaluating NLG** and **sentiment analysis**.
+I’m a Computational Linguistics Master's student at Goldsmiths, University of London.
+I'm passionate about Artificial Intelligence and Natural Language Processing. My current research interests include RAG, Agentic AI, evaluating LLMs, and sentiment analysis.
 
 
 ### Technologies & Skills
